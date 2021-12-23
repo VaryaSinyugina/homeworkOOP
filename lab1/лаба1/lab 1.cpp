@@ -18,6 +18,7 @@ int main()
 
     arf = (x + y) / 2;
     geom = sqrt(x * y);
+    cout << " arf = " << arf;
 }
 
 
